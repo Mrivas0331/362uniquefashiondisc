@@ -25,4 +25,4 @@ Non-Functionals:
 
 UML Diagram
 
-![CPSC 362 - Diagram for Project drawio](https://github.com/user-attachments/assets/c09264f0-8009-4278-b944-8f70064da849)
+![CPSC 362 - Diagram for Project drawio](https://github.com/user-attachments/assets/2c10ab8b-8eff-412b-91ad-6cd4281b04f6)
