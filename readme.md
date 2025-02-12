@@ -21,3 +21,8 @@ Non-Functionals:
 3. Website responsivness/uptime
 4. Web security mechanisms (for the website itself)
 5. Multi-platform/scalability
+
+
+UML Diagram
+
+![CPSC 362 - Diagram for Project drawio](https://github.com/user-attachments/assets/c09264f0-8009-4278-b944-8f70064da849)
