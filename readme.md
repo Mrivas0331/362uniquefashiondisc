@@ -8,7 +8,7 @@ For customers interested in purchasing clothing who need an easy to use online c
 
 ## Requirements:
 
-Functional: 
+Functional (provides users with abilities/features): 
 1. Specific item pages<br>
    (Allows users to visit any specific item and read details on the item)
 2. Checkout/payment window<br>
@@ -20,7 +20,7 @@ Functional:
 5. Search bar<br>
    (A feature which will allow a user to search for any specific item they want)  
 
-Non-Functionals:
+Non-Functionals (improves the existing features of the website):
 1. Item pipeline insertion (new items)<br>
    (Increases the rate that new items are displayed on the store page)
 2. Encrypted payment features<br>
